@@ -1,59 +1,40 @@
 # 🎓 Grade11 Portfolio
 
-Welcome to my personal portfolio repository.
+Welcome to my personal portfolio.
 
-This repository contains my programming projects, game development work, and other digital creations completed during Grade 11 and beyond.
+This repository contains my programming projects, game development work, and other digital creations.
 
 ---
 
 # 🚀 Projects
 
-## 📌 FlowMaze
+## 🎮 FlowMaze
 
 A puzzle game designed and developed by myself.
 
-Contents include:
+**Open Project**
 
-* Project introduction
-* Game screenshots
-* Design process
-* Development details
-
-📂 Folder:
-
-`FlowMaze`
+➡️ **[📂 FlowMaze](./FlowMaze/)**
 
 ---
 
-## 📌 StrayInScore
+## 🎵 StrayInScore
 
-A digital project related to music and score analysis.
+A music-related digital project.
 
-Contents include:
+**Open Project**
 
-* Project overview
-* Demonstrations
-* Screenshots
-
-📂 Folder:
-
-`StrayInScore`
+➡️ **[📂 StrayInScore](./StrayInScore/)**
 
 ---
 
-## 📌 985
+## 💻 985
 
-Project description will be added.
+Programming project.
 
-📂 Folder:
+**Open Project**
 
-`985`
-
----
-
-## 📌 Future Projects
-
-More projects will be uploaded in the future.
+➡️ **[📂 985](./985/)**
 
 ---
 
@@ -67,8 +48,8 @@ More projects will be uploaded in the future.
 
 ---
 
-# 📫 Contact
+# 📈 Future Work
 
-GitHub:
+More projects will be added to this portfolio in the future.
 
-https://github.com/mAn9o111cz
+Thank you for visiting!
