@@ -42,8 +42,8 @@ It demonstrates the development process and final results.
 
 # Skills Demonstrated
 
-* Programming
-* Software Development
+* Unreal Engine Development
+* Visual Design
 * Problem Solving
 * Project Design
 
