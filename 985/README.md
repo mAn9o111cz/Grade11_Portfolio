@@ -43,7 +43,7 @@ It demonstrates the development process and final results.
 # Skills Demonstrated
 
 * Unreal Engine Development
+* Game Design
 * Visual Design
 * Problem Solving
-* Project Design
 
