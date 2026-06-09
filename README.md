@@ -21,7 +21,7 @@ Contents include:
 
 📂 Folder:
 
-`01-FlowMaze`
+`FlowMaze`
 
 ---
 
@@ -37,7 +37,7 @@ Contents include:
 
 📂 Folder:
 
-`02-StrayInScore`
+`StrayInScore`
 
 ---
 
@@ -47,7 +47,7 @@ Project description will be added.
 
 📂 Folder:
 
-`03-985`
+`985`
 
 ---
 
