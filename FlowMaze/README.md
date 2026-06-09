@@ -41,9 +41,9 @@ This project demonstrates the complete design process, interface, gameplay, and 
 
 # Skills Demonstrated
 
-* Game Design
 * Programming
+* Computer Vision Development
 * UI/UX Design
 * Problem Solving
-* Project Development
+* Project Based Learning
 
