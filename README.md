@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio.
 
-This repository contains my programming projects, game development work, and other digital creations.
+This repository contains my programming projects, game development work, and other digital creations which finished during 2025 (Grade 11).
 
 ---
 
@@ -12,9 +12,13 @@ This repository contains my programming projects, game development work, and oth
 
 ![](FlowMaze-1.png)
 
-**Open Project**
+**Visual Portfolio**
 
 ➡️ **[📂 FlowMaze](./FlowMaze/)**
+
+**Source Code**
+
+➡️
 
 ---
 
@@ -22,9 +26,13 @@ This repository contains my programming projects, game development work, and oth
 
 ![](StrayinScore-1.png)
 
-**Open Project**
+**Visual Portfolio**
 
 ➡️ **[📂 StrayInScore](./StrayInScore/)**
+
+**Source Code**
+
+➡️
 
 ---
 
@@ -32,9 +40,13 @@ This repository contains my programming projects, game development work, and oth
 
 ![](985-1.png)
 
-**Open Project**
+**Visual Portfolio**
 
 ➡️ **[📂 985](./985/)**
+
+**Source Code**
+
+➡️
 
 ---
 
@@ -43,13 +55,10 @@ This repository contains my programming projects, game development work, and oth
 * Computer Science
 * Algorithms
 * Artificial Intelligence
-* Software Development
+* Neural Networks
+* Human Computer Interaction
 * Game Development
 
 ---
 
-# 📈 Future Work
-
-More projects will be added to this portfolio in the future.
-
-Thank you for visiting!
+Thank you for watching!
