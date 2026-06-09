@@ -11,31 +11,31 @@ This project demonstrates the complete design process, interface, gameplay, and 
 
 ## Page 1
 
-![](page1.png)
+![](FlowMaze-1.png)
 
 ---
 
 ## Page 2
 
-![](page2.png)
+![](FlowMaze-2.png)
 
 ---
 
 ## Page 3
 
-![](page3.png)
+![](FlowMaze-3.png)
 
 ---
 
 ## Page 4
 
-![](page4.png)
+![](FlowMaze-4.png)
 
 ---
 
 ## Page 5
 
-![](page5.png)
+![](FlowMaze-5.png)
 
 ---
 
