@@ -10,7 +10,7 @@ This repository contains my programming projects, game development work, and oth
 
 ## 🎮 FlowMaze
 
-A puzzle game designed and developed by myself.
+![](FlowMaze-1.png)
 
 **Open Project**
 
@@ -20,7 +20,7 @@ A puzzle game designed and developed by myself.
 
 ## 🎵 StrayInScore
 
-A music-related digital project.
+![](StrayinScore-1.png)
 
 **Open Project**
 
