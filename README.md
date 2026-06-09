@@ -1,38 +1,74 @@
-# Grade11 Portfolio
+# 🎓 Grade11 Portfolio
 
-## About Me
+Welcome to my personal portfolio repository.
 
-High school student interested in
-
-- Computer Science
-- Algorithms
-- AI
-- Software Development
+This repository contains my programming projects, game development work, and other digital creations completed during Grade 11 and beyond.
 
 ---
 
-# Projects
+# 🚀 Projects
 
-## 1. FlowMaze
+## 📌 FlowMaze
 
-A puzzle game designed and implemented by myself.
+A puzzle game designed and developed by myself.
 
-➡️ Click the FlowMaze folder to view details.
+Contents include:
 
----
+* Project introduction
+* Game screenshots
+* Design process
+* Development details
 
-## 2. Project 2
+📂 Folder:
 
-Description...
-
----
-
-## 3. Project 3
-
-Description...
+`01-FlowMaze`
 
 ---
 
-## 4. Project 4
+## 📌 StrayInScore
 
-Description...
+A digital project related to music and score analysis.
+
+Contents include:
+
+* Project overview
+* Demonstrations
+* Screenshots
+
+📂 Folder:
+
+`02-StrayInScore`
+
+---
+
+## 📌 985
+
+Project description will be added.
+
+📂 Folder:
+
+`03-985`
+
+---
+
+## 📌 Future Projects
+
+More projects will be uploaded in the future.
+
+---
+
+# 🛠 Interests
+
+* Computer Science
+* Algorithms
+* Artificial Intelligence
+* Software Development
+* Game Development
+
+---
+
+# 📫 Contact
+
+GitHub:
+
+https://github.com/mAn9o111cz
