@@ -15,7 +15,7 @@ A puzzle game designed and developed by myself.
 **Open Project**
 
 ➡️ **[📂 FlowMaze](./FlowMaze/)**
-
+![](985-1.png)
 ---
 
 ## 🎵 StrayInScore
