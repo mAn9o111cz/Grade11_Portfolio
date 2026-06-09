@@ -12,31 +12,31 @@ It showcases the design process and project implementation.
 
 ## Page 1
 
-![](page1.png)
+![](StrayinScore-1.png)
 
 ---
 
 ## Page 2
 
-![](page2.png)
+![](StrayinScore-2.png)
 
 ---
 
 ## Page 3
 
-![](page3.png)
+![](StrayinScore-3.png)
 
 ---
 
 ## Page 4
 
-![](page4.png)
+![](StrayinScore-4.png)
 
 ---
 
 ## Page 5
 
-![](page5.png)
+![](StrayinScore-5.png)
 
 ---
 
