@@ -13,7 +13,7 @@ This repository contains my programming projects, game development work, and oth
 A puzzle game designed and developed by myself.
 
 **Open Project**
-![](985-1.png)
+
 ➡️ **[📂 FlowMaze](./FlowMaze/)**
 
 ---
@@ -30,7 +30,7 @@ A music-related digital project.
 
 ## 💻 985
 
-Programming project.
+![](985-1.png)
 
 **Open Project**
 
