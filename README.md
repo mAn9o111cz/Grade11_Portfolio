@@ -13,9 +13,9 @@ This repository contains my programming projects, game development work, and oth
 A puzzle game designed and developed by myself.
 
 **Open Project**
-
-➡️ **[📂 FlowMaze](./FlowMaze/)**
 ![](985-1.png)
+➡️ **[📂 FlowMaze](./FlowMaze/)**
+
 ---
 
 ## 🎵 StrayInScore
