@@ -42,8 +42,8 @@ It showcases the design process and project implementation.
 
 # Skills Demonstrated
 
-* Music Technology
 * Programming
-* Digital Design
-* Data Processing
+* Unity Development
+* Game Design
+* Debugging
 
