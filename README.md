@@ -1,35 +1,38 @@
 # Grade11 Portfolio
 
-## About
+## About Me
 
-This repository showcases my projects and portfolio.
+High school student interested in
 
----
-
-# Page 1
-
-![](FlowMaze-1.png)
-
----
-
-# Page 2
-
-![](FlowMaze-2.png)
+- Computer Science
+- Algorithms
+- AI
+- Software Development
 
 ---
 
-# Page 3
+# Projects
 
-![](FlowMaze-3.png)
+## 1. FlowMaze
 
----
+A puzzle game designed and implemented by myself.
 
-# Page 4
-
-![](FlowMaze-4.png)
+➡️ Click the FlowMaze folder to view details.
 
 ---
 
-# Page 5
+## 2. Project 2
 
-![](FlowMaze-5.png)
+Description...
+
+---
+
+## 3. Project 3
+
+Description...
+
+---
+
+## 4. Project 4
+
+Description...
